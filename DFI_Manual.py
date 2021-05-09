@@ -7,6 +7,7 @@
 # signal scattering
 
 # M.Y., A.A. 05/09/2021
+# Under MIT License
 
 # import the necessary packages
 import numpy as np
